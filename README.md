@@ -1,4 +1,4 @@
-# Market-Cipher-B-V2
+#WaveTrend 4h/24m
 
 //@version=5
 indicator("WaveTrend 4h/24m")
